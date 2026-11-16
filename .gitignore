@@ -1,1 +1,6 @@
-/target
+/target/
+*.img
+*.iso
+*.elf
+*.bin
+.DS_Store
